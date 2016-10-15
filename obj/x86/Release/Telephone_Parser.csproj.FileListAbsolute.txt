@@ -19,3 +19,22 @@ D:\My documents\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Teleph
 D:\My documents\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.pdb
 D:\My documents\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Phonebook_Upload.resources
 D:\My documents\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Phonebook.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\bin\Release\Telephone_Parser.exe.config
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\bin\Release\Telephone_Parser.exe
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\bin\Release\Telephone_Parser.pdb
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\bin\Release\FluentCassandra.dll
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\bin\Release\LumenWorks.Framework.IO.dll
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\bin\Release\OutlookGridControl.dll
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.csproj.ResolveComReference.cache
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Phonebook_Upload.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Phonebook.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.UploadList.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Default.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Form1.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.PleaseWait.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Preview.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.Properties.Resources.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.UserControls.TextBoxCaption.resources
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.csproj.GenerateResource.Cache
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.exe
+C:\Users\vasko\Dropbox\Vasko\Proekti\Telephone_Parser\Telephone_Parser\obj\x86\Release\Telephone_Parser.pdb
